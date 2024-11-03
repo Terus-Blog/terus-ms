@@ -1,1 +1,1 @@
-# terus-ms
+# terus
